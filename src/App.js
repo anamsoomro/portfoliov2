@@ -23,11 +23,11 @@ function App() {
           <Route exact path="/background" render={ () => <Background /> } />
 
           <Route exact path="/projects" render={ () => <Projects /> } />
-          <Route exact path="/projects/moneymoon" render={ () => <MoneyMoon /> } />
-          <Route exact path="/projects/atomic-job" render={ () => <AtomicJob /> } />
-          <Route exact path="/projects/pictureshuffle" render={ () => <PictureShuffle /> } />
-          <Route exact path="/projects/captionit" render={ () => <CaptionIt /> } />
-          <Route exact path="/projects/typewars" render={ () => <TypeWars /> } />
+          {/* <Route exact path="/projects/moneymoon" render={ () => <MoneyMoon /> } /> */}
+          {/* <Route exact path="/projects/atomic-job" render={ () => <AtomicJob /> } /> */}
+          {/* <Route exact path="/projects/pictureshuffle" render={ () => <PictureShuffle /> } /> */}
+          {/* <Route exact path="/projects/captionit" render={ () => <CaptionIt /> } /> */}
+          {/* <Route exact path="/projects/typewars" render={ () => <TypeWars /> } /> */}
         </Switch>
       </BrowserRouter> 
     </div>

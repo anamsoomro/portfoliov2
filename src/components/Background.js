@@ -2,13 +2,14 @@ import React from 'react'
 
 function Background () {
   return (
+    <div>
+    <h5> for the full scoop check out my resume here</h5>
     <div class="container">
 
     <div class="timeline-block timeline-block-right">
       <div class="marker"></div>
       <div class="timeline-content">
           <h3>looking for my next oppurtunity</h3>
-          {/* <span>Some work experience</span> */}
           <p>got an oppurtinity in mind? a project you want to collaborate on? just want to chat? <a href="mailto:anamsoomroed@gmail.com" target="_blank" rel="noopener noreferrer">email me!</a>  <a href="https://www.linkedin.com/in/anamsoomro/" target="_blank" rel="noopener noreferrer"> or connect with me on LinkedIn!</a> </p>
       </div>
     </div>
@@ -29,7 +30,7 @@ function Background () {
           <h3>Project Engineer</h3>
           <h4>The Beck Group</h4>
           <span>March 2019</span>
-          <p> getting my shoes dirty doing construction management at the AT&T Discovery District rennovation in the heart of Downtown Dallas and maknig sure they did it sustainably</p>
+          <p> getting my shoes dirty doing construction management and keeping things sustainable at the AT&T Discovery District project in the heart of Downtown Dallas</p>
       </div>
     </div>
 
@@ -73,6 +74,7 @@ function Background () {
       </div>
     </div>
 
+    </div>
     </div>
 
   )

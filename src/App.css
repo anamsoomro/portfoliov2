@@ -1,36 +1,12 @@
 
-.card-img-top {
-  width: 100%;
-  height: 25vw;
-  object-fit: cover;
+html { 
+  background-color: black;
+  color: white;
+  font-family: 'DM Mono', monospace;
 }
 
-.carousel-control-next-icon,
-.carousel-control-prev-icon {
-  filter: invert(1);
-  color: red;
-}
-
-a.nav-link {
-  color:   #e7e4e4 !important;
-}
-
-.card-title{ 
-  margin-bottom: 0px;
-}
-
-.card{
-  width: 22rem;
-  display: inline-block;
-  margin: 5px;
-}
-
-.page { 
-  padding: 1%;
-}
-
-.badge {
-  margin: 2px;
+.page{
+  padding: 5%
 }
 
 /* TIMELINE CSS */
@@ -86,13 +62,13 @@ a.nav-link {
   border: 2px solid #F5F7FA;
   background: #4FC1E9;
   margin-top: 10px;
-  z-index: 9999
+  /* z-index: 9999 */
 }
 
 .timeline-content {
   width: 95%;
   padding: 0 15px;
-  color: #666
+  /* color: #666 */
 }
 
 .timeline-content h3 {
@@ -111,14 +87,14 @@ a.nav-link {
 
 .timeline-content span {
   font-size: 15px;
-  color: #a4a4a4;
+  /* color: #a4a4a4; */
 }
 
 .timeline-content p {
   font-size: 14px;
   line-height: 1.5em;
   word-spacing: 1px;
-  color: #888;
+  /* color: #888; */
 }
 
 
@@ -170,4 +146,36 @@ a.nav-link {
 
 /* CARASOUL CSS ADJUSTING */
 .carousel .carousel-item {
-  width:300px !important;}
+  width:500px !important;
+}
+@media screen and (max-width: 906px){
+  .carousel .carousel-item{
+    width: 200px !important;
+  }
+  .carousel {
+    height: 200px;
+  }
+}
+
+
+
+.image {
+  background: url("./images/anam.JPG");
+  background-size: contain;
+  width: 50%;
+  position: absolute;
+  left: 0px;
+  height: 100%;
+}
+
+
+
+.text {
+  width: 50%;
+  position: absolute;
+  right: 0px;
+  height: 100%;
+}
+
+
+
