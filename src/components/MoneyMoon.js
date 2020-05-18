@@ -25,7 +25,8 @@ function MoneyMoon () {
 
 
       <button class="waves-effect waves-light btn blue-grey" href="https://www.youtube.com/watch?v=1CsJ10XzwuM" target="_blank">Demo</button>
-      <button class="waves-effect waves-light btn blue-grey" href="https://www.youtube.com/watch?v=1CsJ10XzwuM" target="_blank">Code</button>
+      <button class="waves-effect waves-light btn blue-grey" href="https://github.com/anamsoomro/moneys-front-end" target="_blank">Code-Frontend</button>
+      <button class="waves-effect waves-light btn blue-grey" href="https://github.com/anamsoomro/moneys-back-end" target="_blank">Code-Backend</button>
 
 
     </div>
