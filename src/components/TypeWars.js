@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom'
 
 function TypeWars () {
   return (
-    <div className="page">
+    <div className="project">
       
 
       <div className="carousel">
@@ -12,7 +12,6 @@ function TypeWars () {
       </div>
 
       <p> type racer game with fun themes and music! </p>
-      <p> by Mitch and I </p>
 
       <button class="waves-effect waves-light btn blue-grey" href="https://www.youtube.com/watch?v=1CsJ10XzwuM" target="_blank">Demo</button>
       <button class="waves-effect waves-light btn blue-grey" href="https://www.youtube.com/watch?v=1CsJ10XzwuM" target="_blank">Code</button>

@@ -6,7 +6,20 @@ html {
 }
 
 .page{
-  padding: 5%
+  padding: 3%;
+}
+
+.center-text {
+ text-align: center;
+}
+
+.project{
+  /* margin: 3%; */
+  margin-bottom: 100px;
+}
+.project div h3{
+  color: Red;
+  margin: 0px;
 }
 
 /* TIMELINE CSS */
@@ -27,7 +40,8 @@ html {
   margin-left: -1px;
   width: 2px;
   height: 100%;
-  background: #CCD1D9;
+  /* background: #CCD1D9; */
+  background: #405b62;
   z-index: 1
 }
 
@@ -59,8 +73,10 @@ html {
   width: 16px;
   height: 16px;
   border-radius: 50%;
-  border: 2px solid #F5F7FA;
-  background: #4FC1E9;
+  /* border: 2px solid #F5F7FA; */
+  background: #405b62;
+  /* background: #4FC1E9; */
+
   margin-top: 10px;
   /* z-index: 9999 */
 }
@@ -125,28 +141,31 @@ html {
   display: inline-block;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #495057;
-  color: #fff !important;
-  border-radius: 100%;
+  /* background-color: #495057; */
+  background-color: black;
+  color: white !important;
+  /* border-radius: 100%; */
   text-align: center;
   font-size: 1.5rem;
   line-height: 3.5rem;
   margin-right: 1rem;
 }
 
-.social-icons a:last-child {
+/* .social-icons a:last-child {
   margin-right: 0;
-}
-
+} */
 .social-icons a:hover {
-  /* background-color: #BD5D38; */
   background-color: #405b62;
 }
 
 
 /* CARASOUL CSS ADJUSTING */
 .carousel .carousel-item {
-  width:500px !important;
+  width:600px !important;
+}
+
+.carousel {
+  height: 600px;
 }
 @media screen and (max-width: 906px){
   .carousel .carousel-item{
@@ -160,21 +179,40 @@ html {
 
 
 .image {
-  background: url("./images/anam.JPG");
+  background: url("./images/anam.jpg") no-repeat;
   background-size: contain;
-  width: 50%;
+  width: 40%;
   position: absolute;
   left: 0px;
   height: 100%;
 }
 
+.image-mobile {
+  /* background: url("./images/anam-nav.jpg") no-repeat; */
+  /* background-size: contain; */
+  /* width: 100px; */
+  /* height: 100px; */
+  /* position: absolute; */
+  /* left: 0px; */
+  /* height: 100%; */
+}
 
 
 .text {
-  width: 50%;
+  padding: 2%;
+  width: 60%;
   position: absolute;
   right: 0px;
   height: 100%;
+}
+
+@media screen and (max-width: 906px){
+  .image{
+    width: 0%;
+  }
+  .text{
+    width: 100%
+  }
 }
 
 

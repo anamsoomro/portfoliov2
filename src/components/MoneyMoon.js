@@ -11,7 +11,7 @@ function MoneyMoon () {
   })
 
   return (
-    <div> 
+    <div className="project"> 
       <div className="carousel">
         <a className="carousel-item"><img src={require('../images/moneymoon.gif')} /></a>
         <a className="carousel-item"><img src={require('../images/moneymoon1.png')} /></a>

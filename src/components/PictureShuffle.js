@@ -5,7 +5,7 @@ import {Link} from 'react-router-dom'
 function PictureShuffle () {
   return (
     
-      <div>
+      <div className="project">
       <div className="carousel">
         <a className="carousel-item"><img src={require('../images/pictureshuffle.gif')} /></a>
         <a className="carousel-item"><img src={require('../images/pictureshuffle.png')} /></a>
@@ -13,7 +13,6 @@ function PictureShuffle () {
 
       <p> Ruby on Rails, SQLite, JavaScript, HTML/CSS</p>
       <p> Just like the picture shuffle games in birthday goody bags, but classier. </p>
-      <p> By Cornelius and I </p>
 
 
       <button class="waves-effect waves-light btn blue-grey" href="https://www.youtube.com/watch?v=1CsJ10XzwuM" target="_blank">Demo</button>
