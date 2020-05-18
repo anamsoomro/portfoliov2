@@ -1,11 +1,12 @@
 import React from 'react'
+{/* <img src={require('../images/anam.jpg')}></img> */}
+
 
 function Summary () {
   return (
     <div className="summary">
 
       <div className="image">
-      <img src={require('../images/anam.jpg')}></img>
 
       </div>
 
@@ -15,7 +16,7 @@ function Summary () {
       <p> I'm a full stack developer with a background in architecture, engineering and construction. </p>
       <p> Excited to take my experience dedicated to the built environment to building on the internet. </p>
       <p> Currently equipped with Ruby on Rails, JavaScript, React, Redux, HTML and CSS. </p>
-      <p> In my downtime I like to ride my bike and pick flowering weeds. </p>
+      <p> In my downtime I like to ride my bike and picking flowers </p>
 
       <div class="social-icons">
         <a href="https://www.linkedin.com/in/anamsoomro/" target="_blank" rel="noopener noreferrer">
