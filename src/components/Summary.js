@@ -4,10 +4,13 @@ function Summary () {
   return (
     <div className="summary">
 
-      <div className="image"></div>
+      <div className="image">
+      <img src={require("../images/anam.jpg")}></img>
+      </div>
 
       <div className="text">
-      <div className="image-mobile"></div> <h1> ANAM SOOMRO </h1>
+      <div className="image-mobile">
+      </div> <h1> ANAM SOOMRO </h1>
       <p> I'm a full stack developer with a background in architecture, engineering and construction. </p>
       <p> Excited to take my experience dedicated to the built environment to building on the internet. </p>
       <p> Currently equipped with Ruby on Rails, JavaScript, React, Redux, HTML and CSS. </p>
