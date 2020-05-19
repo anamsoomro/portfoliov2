@@ -8,7 +8,7 @@ function Summary () {
     <div className="summary">
 
       <div className="image">
-        <img src={require('../images/anam-nav.jpg')}></img>
+        <img src={require('../images/anam2.jpg')}></img>
         {/* <img src={myImage}></img> */}
 
       </div>
