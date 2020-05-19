@@ -1,5 +1,5 @@
 import React from 'react'
-import pdf from '../images/Soomro_Resume.pdf'
+import pdf from '../images/Soomro_Resume4.pdf'
 
 function Background () {
   return (
