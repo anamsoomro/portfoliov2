@@ -1,5 +1,6 @@
 import React from 'react'
-import myImage from '../images/anam.jpg'
+// import myImage from '../images/anam.jpg'
+// console.log(myImage) // => /static/media/anam.0dc8093b.jpg
 
 
 function Summary () {
@@ -7,8 +8,8 @@ function Summary () {
     <div className="summary">
 
       <div className="image">
-        {/* <img src={require('../images/anam.jpg')}></img> */}
-        <img src={myImage}></img>
+        <img src={require('../images/anam-nav.jpg')}></img>
+        {/* <img src={myImage}></img> */}
 
       </div>
 

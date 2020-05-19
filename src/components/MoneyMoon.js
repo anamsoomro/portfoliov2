@@ -10,6 +10,9 @@ function MoneyMoon () {
 
   })
 
+  console.log(require('../images/moneymoon.gif'))
+  // /static/media/moneymoon.63161b71.gif
+
   return (
     <div className="project"> 
       <div className="carousel">
