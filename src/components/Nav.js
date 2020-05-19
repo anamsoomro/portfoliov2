@@ -9,9 +9,9 @@ function Nav () {
 
         <div class="brand-logo right hide-on-med-and-down">anam soomro</div>
         <ul >
-          <li><a href="/">About Me</a></li>
-          <li><a href="/background">Background</a></li>
-          <li><a href="/projects">Projects</a></li>
+          <li><a className="nav-link" href="/">about me</a></li>
+          <li><a className="nav-link" href="/background">background</a></li>
+          <li><a className="nav-link" href="/projects">projects</a></li>
         </ul>
         </div>
       </nav>

@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react';
-// import {Link} from 'react-router-dom'
 import M from "materialize-css";
 
 function MoneyMoon () {
@@ -11,7 +10,6 @@ function MoneyMoon () {
   })
 
   console.log(require('../images/moneymoon.gif'))
-  // /static/media/moneymoon.63161b71.gif
 
   return (
     <div className="project"> 

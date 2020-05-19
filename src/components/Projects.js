@@ -32,8 +32,8 @@ function Projects () {
         <TypeWars/> 
       </div>
       <div className="project"> 
-        wanna check out how I made this site? 
-        <button class="waves-effect waves-light btn blue-grey" href="https://www.youtube.com/watch?v=1CsJ10XzwuM" target="_blank">code</button>
+        <p>wanna check out how I made this portfolio? </p>
+        <button class="waves-effect waves-light btn blue-grey" href="https://www.youtube.com/watch?v=1CsJ10XzwuM" target="_blank" >code</button>
       </div>
     </div>
   )
