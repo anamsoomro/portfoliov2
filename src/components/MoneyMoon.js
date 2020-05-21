@@ -20,9 +20,11 @@ function MoneyMoon () {
         <a className="carousel-item"><img src={require('../images/moneymoon3.png')} /></a>
         <a className="carousel-item"><img src={require('../images/moneymoon4.png')} /></a>
       </div>
+      <h3>MONEYMOON </h3>
 
+      <p>Personal finance application for two.</p>
       <p>Ruby on Rails, SQLite, JavaScript, React, Redux, Chart.js, Plaid API </p>
-      <p>Personal finance application for two</p>
+
 
 
       <button class="waves-effect waves-light btn blue-grey" href="https://www.youtube.com/watch?v=1CsJ10XzwuM" target="_blank">Demo</button>

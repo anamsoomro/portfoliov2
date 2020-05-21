@@ -19,8 +19,8 @@ function Background () {
             <div class="marker"></div>
             <div class="timeline-content">
               <h3>Seeking New Opportunities</h3>
-              <p>Got an opportunity in mind? Project you want to collaborate on? Just want to chat? 
-                <a class="modal-trigger" href="#modal1"> Email me </a>
+              <p>Got an opportunity in mind? A project you want to collaborate on? Just want to chat? 
+                <a class="modal-trigger" href="#modal1"> Email</a>  me 
                 or connect with me on
                 <a href="https://www.linkedin.com/in/anamsoomro/" target="_blank" rel="noopener noreferrer"> LinkedIn</a>!
               </p>
@@ -29,10 +29,11 @@ function Background () {
           <div class="timeline-block timeline-block-left">
             <div class="marker"></div>
             <div class="timeline-content">
+
               <h3>Software Engineering</h3>
               <h4>Flatiron School</h4>
-              <span>01/20 - 05/20 </span>
-              <p> Full-stack development using Ruby and JavaScript framewiirks. Check out my <a href="/projects">projects</a> to see the evolution from week 1 to week 15.</p>
+              <span>01/20&lrm; - 05/20&lrm; </span>
+              <p> Built full-stack applications using Ruby and JavaScript frameworks. Check out my <a href="/projects">projects</a> to see the evolution from week 1 to week 15.&lrm;</p>
             </div>
           </div>
           <div class="timeline-block timeline-block-right">
@@ -41,7 +42,7 @@ function Background () {
               <h3>Project Engineer</h3>
               <h4>The Beck Group</h4>
               <span>03/19 - 01/20</span>
-              <p> Construction management and keeping things sustainable at the AT&T Discovery District rennovation in the heart of Downtown Dallas.</p>
+              <p> Oversaw construction of the central plaza and overall sustainability at the AT&T Discovery District rennovation in the heart of Downtown Dallas. </p>
             </div>
           </div>
           <div class="timeline-block timeline-block-left">
@@ -49,8 +50,8 @@ function Background () {
             <div class="timeline-content">
               <h3>Sustainability Consultant</h3>
               <h4>The Beck Group</h4>
-              <span>05/18 - 03/19</span>
-              <p>Energy performance things, but also looking at sustainiabilty as a whole from the paint that hits the walls, to how much daylight a space gets.</p>
+              <span>05/18&lrm; - 03/19&lrm;</span>
+              <p>Advised architecture teams on building performance in terms of energy, but also holistically from the paint on the walls to the daylight in a space.&lrm; </p>
             </div>
           </div>
           <div class="timeline-block timeline-block-right">
@@ -59,7 +60,7 @@ function Background () {
               <h3>Energy Modeler</h3>
               <h4>alliantgroup</h4>
               <span>06/16 - 04/18 </span>
-              <p>Simulated the energy performance of buildings from prisons to airplane hangars, rewarding designers and builders for susttainable design with money back in their pocket. </p>
+              <p> Quanitfied and verfied energy performace through simulations of buildings ranging prisons, airplane hangars, schools, dorms, hospitals and more.  </p>
             </div>
           </div>
           <div class="timeline-block timeline-block-left">
@@ -67,8 +68,8 @@ function Background () {
             <div class="timeline-content">
               <h3>Civil and Environmental Engineering</h3>
               <h4>University of Houston</h4>
-              <span>08/12 - 05/16</span>
-              <p>Kickstarted a coffee adddiction.</p>
+              <span>08/12&lrm; - 05/16&lrm;</span>
+              <p>Kickstarted a coffee addiction.&lrm;</p>
             </div>
           </div>
           <div class="timeline-block timeline-block-right">
@@ -77,7 +78,7 @@ function Background () {
               <h3>Civil Engineering Intern</h3>
               <h4>A&S Engineers</h4>
               <span>06/15 - 12/15</span>
-              <p>Learned about the design and construction of the infrastructure that gets water to and from your home.</p>
+              <p>Learned about the management, design, and construction of the infrastructure that gets water to and from you.</p>
           </div>
         </div>
       </div>
