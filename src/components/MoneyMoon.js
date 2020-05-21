@@ -13,6 +13,7 @@ function MoneyMoon () {
 
   return (
     <div className="project"> 
+
       <div className="carousel">
         <a className="carousel-item"><img src={require('../images/moneymoon.gif')} /></a>
         <a className="carousel-item"><img src={require('../images/moneymoon1.png')} /></a>
@@ -20,17 +21,15 @@ function MoneyMoon () {
         <a className="carousel-item"><img src={require('../images/moneymoon3.png')} /></a>
         <a className="carousel-item"><img src={require('../images/moneymoon4.png')} /></a>
       </div>
+
       <h3>MONEYMOON </h3>
 
       <p>Personal finance application for two.</p>
       <p>Ruby on Rails, SQLite, JavaScript, React, Redux, Chart.js, Plaid API </p>
 
-
-
       <button class="waves-effect waves-light btn blue-grey" href="https://www.youtube.com/watch?v=1CsJ10XzwuM" target="_blank">Demo</button>
       <button class="waves-effect waves-light btn blue-grey" href="https://github.com/anamsoomro/moneys-front-end" target="_blank">Code-Frontend</button>
       <button class="waves-effect waves-light btn blue-grey" href="https://github.com/anamsoomro/moneys-back-end" target="_blank">Code-Backend</button>
-
 
     </div>
   )

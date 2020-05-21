@@ -10,7 +10,6 @@ function Nav () {
           ? <div class="brand-logo right hide-on-med-and-down">ANAM SOOMRO</div>
           : null
         }
-        
         <ul >
           <li><a className="nav-link" href="/">ABOUT ME</a></li>
           <li><a className="nav-link" href="/background">BACKGROUND</a></li>

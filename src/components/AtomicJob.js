@@ -16,7 +16,6 @@ function AtomicJob () {
       <h3>ATOMICJOB </h3>
 
       <p> Organize your job search, because job hunting is painful enough.</p>
-
       <p>Ruby on Rails, PostgreSQL, JavaScript, React, Bootstrap</p>
 
       <button class="waves-effect waves-light btn blue-grey" href="https://www.youtube.com/watch?v=5i_m4Tvaw5g&t=5s" target="_blank">Demo</button>
