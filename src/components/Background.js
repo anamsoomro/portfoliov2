@@ -33,7 +33,7 @@ function Background () {
               <h3>Software Engineering</h3>
               <h4>Flatiron School</h4>
               <span>01/20&lrm; - 05/20&lrm; </span>
-              <p> Built full-stack applications using Ruby and JavaScript frameworks. Check out my <a href="/projects">projects</a> to see the evolution from week 1 to week 15.&lrm;</p>
+              <p> Built full-stack applications using Ruby and JavaScript frameworks. Check out my <a href="/projects">projects</a> to see my evolution from week 1 to week 15.&lrm;</p>
             </div>
           </div>
           <div class="timeline-block timeline-block-right">
@@ -60,7 +60,7 @@ function Background () {
               <h3>Energy Modeler</h3>
               <h4>alliantgroup</h4>
               <span>06/16 - 04/18 </span>
-              <p> Quanitfied and verfied energy performace through simulations of buildings ranging prisons, airplane hangars, schools, dorms, hospitals and more.  </p>
+              <p> Quanitfied and verfied energy performace through simulations of buildings ranging prisons, airplane hangars, schools, dorms, hospitals, and more.  </p>
             </div>
           </div>
           <div class="timeline-block timeline-block-left">
@@ -84,7 +84,7 @@ function Background () {
       </div>
 
       <div className="center-text">
-        <h5> check out my <a href={pdf} target="_blank">resume</a> for more info</h5>
+        <h5> check out my <a href={pdf} target="_blank" el="noopener noreferrer">resume</a> for more info</h5>
       </div>
 
       <div id="modal1" class="modal bottom-sheet">

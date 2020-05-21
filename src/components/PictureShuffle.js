@@ -19,9 +19,9 @@ function PictureShuffle () {
         <p> Just like the picture shuffle games in birthday goody bags, but classier. </p>
         <p> Ruby on Rails, SQLite, JavaScript, HTML/CSS</p>
 
-        <button class="waves-effect waves-light btn blue-grey" href="https://www.youtube.com/watch?v=Q9ZGVWXspnA" target="_blank">Demo</button>
-        <button class="waves-effect waves-light btn blue-grey" href="https://github.com/anamsoomro/pictureShuffle" target="_blank">Code</button>
-        
+        <a class="waves-effect waves-light btn blue-grey" href="https://www.youtube.com/watch?v=Q9ZGVWXspnA" target="_blank">Demo</a>
+        <a class="waves-effect waves-light btn blue-grey" href="https://github.com/anamsoomro/pictureShuffle" target="_blank">Code</a>
+
       </div>
 
   )

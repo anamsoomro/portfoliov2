@@ -28,7 +28,7 @@ function Projects () {
       </div>
       <div className="project"> 
         <p>Wanna check out how I made this portfolio? </p>
-        <button class="waves-effect waves-light btn blue-grey" href="https://www.youtube.com/watch?v=1CsJ10XzwuM" target="_blank" >code</button>
+        <a class="waves-effect waves-light btn blue-grey" href="https://github.com/anamsoomro/portfoliov2" target="_blank" >code</a>
       </div>
     </div>
   )

@@ -24,12 +24,15 @@ function MoneyMoon () {
 
       <h3>MONEYMOON </h3>
 
-      <p>Personal finance application for two.</p>
-      <p>Ruby on Rails, SQLite, JavaScript, React, Redux, Chart.js, Plaid API </p>
+      <p> Personal finance application for two.</p>
+      <p> Ruby on Rails, SQLite, JavaScript, React, Redux, Chart.js, Plaid API </p>
 
-      <button class="waves-effect waves-light btn blue-grey" href="https://www.youtube.com/watch?v=1CsJ10XzwuM" target="_blank">Demo</button>
-      <button class="waves-effect waves-light btn blue-grey" href="https://github.com/anamsoomro/moneys-front-end" target="_blank">Code-Frontend</button>
-      <button class="waves-effect waves-light btn blue-grey" href="https://github.com/anamsoomro/moneys-back-end" target="_blank">Code-Backend</button>
+
+      <a  class="waves-effect waves-light btn blue-grey" href="https://www.youtube.com/watch?v=1CsJ10XzwuM" target="_blank"> Demo </a>
+      
+      <a class="waves-effect waves-light btn blue-grey" href="https://github.com/anamsoomro/moneys-front-end" target="_blank"> Code-Frontend </a>
+      
+      <a class="waves-effect waves-light btn blue-grey" href="https://github.com/anamsoomro/moneys-back-end" target="_blank"> Code-Backend </a>
 
     </div>
   )
