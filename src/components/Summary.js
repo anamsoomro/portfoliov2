@@ -26,7 +26,7 @@ function Summary () {
         <p> I'm a full-stack developer with a background in architecture, engineering, and construction. I am excited to take my career from focusing on the built environment to now building on the internet. </p>
         
         {/* <p> Challenges and purpose are what keep me motivated and engaged, and whats make me exctied about coding. But what's kept me hooked is seeing things go from 0 to 100 with my own hands.</p> */}
-        <p> Throughout my career I found to be most engaged when confronted with new challenges, hands-on problem solving, working with the team to find the "bugs" in our workflow, and collaborating on how to eliminate them. The itch for more is what drew me to programming, but what's kept me hooked has been seeing things go from 0 to 100.</p>
+        <p> Throughout my career I found to be most engaged when confronted with new challenges, hands-on problem solving, working with the team to find the "bugs" in our workflow, and collaborating on how to eliminate them. The itch for more is what drew me to programming, but what's kept me hooked has been seeing projects go from 0 to 100.</p>
         
         <p> I currently build with Ruby on Rails, JavaScript, React, Redux, HTML, and CSS. Although I have been doing solo work to hone my skills, I actively seek out developer friends to share and practice with. Interested? Get in <a class="modal-trigger" href="#modal1"> touch</a>!</p>
         
