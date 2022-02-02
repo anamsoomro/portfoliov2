@@ -18,18 +18,33 @@ function Background () {
           <div class="timeline-block timeline-block-right">
             <div class="marker"></div>
             <div class="timeline-content">
-              <h3>Seeking New Opportunities</h3>
-              <p>Got an opportunity in mind? A project you want to collaborate on? Just want to chat? 
-                <a class="modal-trigger" href="#modal1"> Email</a>  me 
-                or connect with me on
-                <a href="https://www.linkedin.com/in/anamsoomro/" target="_blank" rel="noopener noreferrer"> LinkedIn</a>!
-              </p>
+              <h3>Human Being</h3>
+              <h4>California</h4>
+              <span>08/94&lrm; - present&lrm; </span>
+              <p> I love hearing other's perspectives and am always down to chat. Don't be shy, <a class="modal-trigger" href="#modal1">email</a> me or message me on <a href="https://www.linkedin.com/in/anamsoomro/" target="_blank" rel="noopener noreferrer">LinkedIn</a>!</p>
             </div>
           </div>
           <div class="timeline-block timeline-block-left">
             <div class="marker"></div>
             <div class="timeline-content">
-
+              <h3>Software Development Engineer</h3>
+              <h4>Skilljar</h4>
+              <span>12/21&lrm; - present&lrm; </span>
+              <p> Enhancing our ever-growing <a href="https://www.skilljar.com/product/">product</a> one line of code at a time!&lrm; </p>
+            </div>
+          </div>
+          <div class="timeline-block timeline-block-right">
+            <div class="marker"></div>
+            <div class="timeline-content">
+              <h3>Service and Support Engineer</h3>
+              <h4>Skilljar</h4>
+              <span>08/20&lrm; - 12/21&lrm; </span>
+              <p> Solved problems by being the bridge between engineering, product and customer success. </p>
+            </div>
+          </div>
+          <div class="timeline-block timeline-block-left">
+            <div class="marker"></div>
+            <div class="timeline-content">
               <h3>Software Engineering</h3>
               <h4>Flatiron School</h4>
               <span>01/20&lrm; - 05/20&lrm; </span>
@@ -42,7 +57,7 @@ function Background () {
               <h3>Project Engineer</h3>
               <h4>The Beck Group</h4>
               <span>03/19 - 01/20</span>
-              <p> Oversaw construction of the central plaza and overall sustainability at the AT&T Discovery District rennovation in the heart of Downtown Dallas. </p>
+              <p> Oversaw construction of the central plaza and overall sustainability at the <a href='https://www.google.com/maps/@32.7797885,-96.7995636,3a,75y,146.59h,98.21t/data=!3m6!1e1!3m4!1s1906U5XlCSt3Wy0utkaO0A!2e0!7i16384!8i8192?hl=en' target="_blank" rel="noopener noreferer">AT&T Discovery District</a> rennovation in the heart of Downtown Dallas. Led them to <a href='https://www.sustainablesites.org/' target='_blank' rel='noopener noreferer'>SITES</a> certication!</p>
             </div>
           </div>
           <div class="timeline-block timeline-block-left">
@@ -51,7 +66,7 @@ function Background () {
               <h3>Sustainability Consultant</h3>
               <h4>The Beck Group</h4>
               <span>05/18&lrm; - 03/19&lrm;</span>
-              <p>Advised architecture teams on building performance in terms of energy, but also holistically from the paint on the walls to the daylight in a space.&lrm; </p>
+              <p>Advised architecture teams on <a href='https://www.beckgroup.com/about-beck/services/sustainablity/' target="_blank" rel='noreferer noopener'>sustainability</a> through quantitative analysis on energy performance, but also holistically from the paint on the walls to the daylight in a space.&lrm; </p>
             </div>
           </div>
           <div class="timeline-block timeline-block-right">
