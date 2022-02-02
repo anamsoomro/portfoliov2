@@ -1,5 +1,5 @@
 import React from 'react'
-import pdf from '../images/Soomro_Resume.pdf'
+import pdf from '../images/Soomro-Resume.pdf'
 import M from "materialize-css";
 import EmailForm from './EmailForm'
 
@@ -29,7 +29,7 @@ function Background () {
             <div class="timeline-content">
               <h3>Software Development Engineer</h3>
               <h4>Skilljar</h4>
-              <span>12/21&lrm; - present&lrm; </span>
+              <span>11/21&lrm; - present&lrm; </span>
               <p> Enhancing our ever-growing <a href="https://www.skilljar.com/product/">product</a> one line of code at a time!&lrm; </p>
             </div>
           </div>
